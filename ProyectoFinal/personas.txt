@@ -1,0 +1,1 @@
+{perosnasssssss: int[25]}
